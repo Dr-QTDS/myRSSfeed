@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>微信公众号</title>
+		<language>zh-cn</language>
+		<link>https://mp.weixin.qq.com</link>
+		<description>公众号RSS feed</description>
+		<pubDate>Fri, 13 Oct 2023 10:15:22 </pubDate>
+	</channel>
+	<item>
+		<title>读研生活寡淡如水，所以在R里整点花活儿</title>
+		<pubDate>Thu, 12 Oct 2023 21:54:57 </pubDate>
+	</item>
+	<item>
+		<title>单细胞基因集打分方法——AUCell</title>
+	    <pubDate>Thu, 12 Oct 2023 21:54:57 </pubDate>
+	</item>
+</rss>
