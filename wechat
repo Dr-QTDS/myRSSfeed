@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+	<channel>
+		<title>微信公众号</title>
+		<language>zh-cn</language>
+		<link>https://mp.weixin.qq.com</link>
+		<description>公众号RSS feed</description>
+		<pubDate>Fri, 13 Oct 2023 10:15:22 </pubDate>
+	</channel>
+	<item>
+		<title>读研生活寡淡如水，所以在R里整点花活儿</title>
+		<link>http://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&amp;mid=2247525230&amp;idx=1&amp;sn=431e65f4f061b47d263722cf29ed8dbd&amp;chksm=9b4b23d5ac3caac383515b978d6e5c589ff253bc1f4df7763a04a7102b847635205a679a11fa#rd</link>
+		<description>&lt;img src=&quot;https://mmbiz.qlogo.cn/mmbiz_jpg/iaRJcrq2Los81Lr6HS8dHINdnMZcfiaTZVuLtkibyJXbsPh7n2MGSYJruz7dSsibZl6w3l7CVmicow4YRAPkRh2ty3A/0?wx_fmt=jpeg&quot; w=&quot;781&quot; h=&quot;612&quot;&gt;</description>
+		<pubDate>Thu, 12 Oct 2023 21:54:57 </pubDate>
+	</item>
+	<item>
+		<title>单细胞基因集打分方法——AUCell</title>
+		<link>http://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&amp;mid=2247525230&amp;idx=2&amp;sn=5d5d0f566cdb45ba30b1292b58948ca4&amp;chksm=9b4b23d5ac3caac3eee0d088a380ff85f95c203cce2f0602694d84719e2c820c9fee0063cdec#rd</link>
+		<description>&lt;img src=&quot;https://mmbiz.qlogo.cn/mmbiz_jpg/iaRJcrq2Los9Oy2YuNGbicrEYyJYIC1Ol8j9T5dtBtjjbDJ8RzyPOSNG9k42476rzmOmdZ5yB8kicZemr0vqVJQQA/0?wx_fmt=jpeg&quot; w=&quot;781&quot; h=&quot;612&quot;&gt;</description>
+		<pubDate>Thu, 12 Oct 2023 21:54:57 </pubDate>
+	</item>
+</rss>
